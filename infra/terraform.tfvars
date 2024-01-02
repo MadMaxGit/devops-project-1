@@ -13,4 +13,4 @@ ec2_ami_id     = "ami-0faab6bdbac9486fb"
 
 ec2_user_data_install_apache = ""
 
-domain_name = "kpminfo.xyz"
+domain_name = "jenkins.kpminfo.xyz"
